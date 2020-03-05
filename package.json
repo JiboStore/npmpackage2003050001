@@ -1,0 +1,19 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "NPM PACKAGE FOR REACT NATIVE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiboStore/npmpackage2003050001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiboStore/npmpackage2003050001/issues"
+  },
+  "homepage": "https://github.com/JiboStore/npmpackage2003050001#readme"
+}
